@@ -9,3 +9,5 @@
 - 21.08
   - Tasks, microtasks, queues and schedules
   - Advanced CSS and Sass: Flexbox, Grid, Animations udemy cource. 9 / 125
+- 22.08
+  - SVG / SVG Animations
