@@ -13,4 +13,5 @@
   - SVG / SVG Animations
 - 23.08
   - Advanced CSS and Sass Course
-
+- 25.08
+  - Advanced CSS and Sass Course
