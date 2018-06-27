@@ -15,3 +15,5 @@
   - Advanced CSS and Sass Course
 - 25.08
   - Advanced CSS and Sass Course
+- 27.08
+  - Advanced CSS and Sass Course
